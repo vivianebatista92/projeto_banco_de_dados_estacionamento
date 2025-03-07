@@ -1,0 +1,330 @@
+{
+    "tables": [
+      {
+        "id": 0,
+        "name": "usuarios",
+        "x": -548,
+        "y": -352,
+        "fields": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": true,
+            "unique": true,
+            "notNull": true,
+            "increment": true,
+            "comment": "",
+            "id": 0
+          },
+          {
+            "name": "nome",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 1,
+            "size": 255
+          },
+          {
+            "name": "matricula",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 2,
+            "size": "",
+            "values": []
+          }
+        ],
+        "comment": "",
+        "indices": [],
+        "color": "#175e7a",
+        "key": 1740937571962
+      },
+      {
+        "id": 1,
+        "name": "clientes",
+        "x": -470.0000000000001,
+        "y": 136.99999999999994,
+        "fields": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": true,
+            "unique": true,
+            "notNull": true,
+            "increment": true,
+            "comment": "",
+            "id": 0
+          },
+          {
+            "name": "nome",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 1,
+            "size": 255,
+            "values": []
+          },
+          {
+            "name": "contato",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 2,
+            "size": "",
+            "values": []
+          }
+        ],
+        "comment": "",
+        "indices": [],
+        "color": "#ffe159",
+        "key": 1740937817739
+      },
+      {
+        "id": 2,
+        "name": "veiculos",
+        "x": -801.0000000000002,
+        "y": -179.99999999999991,
+        "fields": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": true,
+            "unique": true,
+            "notNull": true,
+            "increment": true,
+            "comment": "",
+            "id": 0
+          },
+          {
+            "name": "tipo",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 1,
+            "size": 150
+          },
+          {
+            "name": "marca",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 2,
+            "size": 100
+          },
+          {
+            "name": "modelo",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 3,
+            "size": 200
+          },
+          {
+            "name": "placa",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 4,
+            "size": 7,
+            "values": []
+          },
+          {
+            "name": "cliente",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 5,
+            "size": "",
+            "values": []
+          }
+        ],
+        "comment": "",
+        "indices": [],
+        "color": "#7d9dff",
+        "key": 1740937987145
+      },
+      {
+        "id": 3,
+        "name": "estacionamento",
+        "x": -134.99999999999994,
+        "y": -203.00000000000006,
+        "fields": [
+          {
+            "name": "id",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": true,
+            "unique": true,
+            "notNull": true,
+            "increment": true,
+            "comment": "",
+            "id": 0
+          },
+          {
+            "name": "operador",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 1,
+            "size": "",
+            "values": []
+          },
+          {
+            "name": "cliente",
+            "type": "INTEGER",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 2,
+            "size": "",
+            "values": []
+          },
+          {
+            "name": "data",
+            "type": "DATE",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 3,
+            "size": "",
+            "values": []
+          },
+          {
+            "name": "hora",
+            "type": "TIME",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 4,
+            "size": "",
+            "values": []
+          },
+          {
+            "name": "status",
+            "type": "VARCHAR",
+            "default": "",
+            "check": "",
+            "primary": false,
+            "unique": false,
+            "notNull": false,
+            "increment": false,
+            "comment": "",
+            "id": 5,
+            "size": 255
+          }
+        ],
+        "comment": "",
+        "indices": [],
+        "color": "#a751e8",
+        "key": 1740938161359
+      }
+    ],
+    "relationships": [
+      {
+        "startTableId": 3,
+        "startFieldId": 1,
+        "endTableId": 0,
+        "endFieldId": 0,
+        "cardinality": "one_to_one",
+        "updateConstraint": "No action",
+        "deleteConstraint": "No action",
+        "name": "fk_estacionamento_operador_usuarios",
+        "id": 0
+      },
+      {
+        "startTableId": 3,
+        "startFieldId": 2,
+        "endTableId": 1,
+        "endFieldId": 0,
+        "cardinality": "one_to_one",
+        "updateConstraint": "No action",
+        "deleteConstraint": "No action",
+        "name": "fk_estacionamento_cliente_clientes",
+        "id": 1
+      },
+      {
+        "startTableId": 2,
+        "startFieldId": 5,
+        "endTableId": 1,
+        "endFieldId": 0,
+        "cardinality": "one_to_one",
+        "updateConstraint": "No action",
+        "deleteConstraint": "No action",
+        "name": "fk_veiculos_cliente_clientes",
+        "id": 2
+      }
+    ],
+    "notes": [],
+    "subjectAreas": [],
+    "database": "mysql",
+    "title": "Diagrama MER Estacionamento"
+  }
