@@ -17,11 +17,11 @@
 
 |   **Requisitos** |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| - Os usuários terão o seu nome e matrícula; |
- | - Os clientes terão o nome e contato; |
- |- Os veículos terão  o tipo(se é carro ou moto), marca, modelo, placa e qual cliente é o seu proprietário; |
- |- O estacionamento identificará que é os operadores; os clientes; os veículos; data e hora de entrada dos veículos no estacionamento (referenciar pelo proprietário, ou seja, o cliente); e o status que informará se os veículos estão ou não estacionados nas vagas do estacionamento. |
- |- Todas as tabelas tem chave primária. |
+| - Os usuários terão o seu nome e matrícula |
+ | - Os clientes terão o nome e contato |
+ |- Os veículos terão  o tipo(se é carro ou moto), marca, modelo, placa e qual cliente é o seu proprietário |
+ |- O estacionamento identificará que é os operadores; os clientes; os veículos; data e hora de entrada dos veículos no estacionamento (referenciar pelo proprietário, ou seja, o cliente); e o status que informará se os veículos estão ou não estacionados nas vagas do estacionamento |
+ |- Todas as tabelas tem chave primária |
 
 
 ## 📄 Principais objetivos do projeto
