@@ -2,6 +2,7 @@
 
 > ℹ️ **NOTE:** Projeto final do curso curso de Desenvolvimento de Banco de Dados para plataforma [RioOn](https://rioon.rio.br/) em parceria com o SENAC.
 
+
 <p align="center">
 <img 
     src="diagrama_mer/diagrama_mer_estacionamento.jpeg"
@@ -17,11 +18,11 @@
 
 |   **Requisitos** |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| - Os usuários terão o seu nome e matrícula |
- | - Os clientes terão o nome e contato |
- |- Os veículos terão  o tipo(se é carro ou moto), marca, modelo, placa e qual cliente é o seu proprietário |
- |- O estacionamento identificará que é os operadores; os clientes; os veículos; data e hora de entrada dos veículos no estacionamento (referenciar pelo proprietário, ou seja, o cliente); e o status que informará se os veículos estão ou não estacionados nas vagas do estacionamento |
- |- Todas as tabelas tem chave primária |
+| <li> Os usuários terão o seu nome e matrícula </li> |
+ | <li> Os clientes terão o nome e contato </li>|
+ | <li> Os veículos terão  o tipo(se é carro ou moto), marca, modelo, placa e qual cliente é o seu proprietário </li>|
+ | <li> O estacionamento identificará que é os operadores; os clientes; os veículos; data e hora de entrada dos veículos no estacionamento (referenciar pelo proprietário, ou seja, o cliente); e o status que informará se os veículos estão ou não estacionados nas vagas do estacionamento </li>|
+ | <li> Todas as tabelas tem chave primária </li>|
 
 
 ## 📄 Principais objetivos do projeto
