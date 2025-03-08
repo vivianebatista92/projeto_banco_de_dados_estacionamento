@@ -34,7 +34,6 @@
 |  Criação do Banco de Dados  | Desenvolver um sistema de Banco de Dados para um sistema de estacionamento que tem o operador do sistema, os clientes, veículos desses clientes (donos(as)) e o estacionamento (local que vai centralizar as informações). |
 | Criação das Tabelas | Criar as tabelas de funcionamento do Banco de Dados: Usuário, Clientes, Veículos e Estacionamento respeitando as chaves primárias e estrangeiras|
 | Inserção de Dados | Inserir os dados passados no arquivo em Excel, através de código sql |
-| Criação das Tabelas | Criar as tabelas de funcionamento do Banco de Dados: Usuário, Clientes, Veículos e Estacionamento |
 | Consultas e Updates | Realizar consultas e updates no banco de dados |
 
 
