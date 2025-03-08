@@ -1,6 +1,6 @@
 # Projeto de Banco de Dados - Estacionamento
 
-> ℹ️ **NOTE:** Este é o projeto realizado para plataforma [RioOn](https://rioon.rio.br/) em parceria com o SENAC.
+> ℹ️ **NOTE:** Projeto final do curso curso de Desenvolvimento de Banco de Dados para plataforma [RioOn](https://rioon.rio.br/) em parceria com o SENAC.
 
 <p align="center">
 <img 
@@ -11,10 +11,6 @@
 <p align="center">
     Diagrama MER
 </p>
-
- <p align="center"><b>
-   Projeto final do curso curso de Desenvolvimento de Banco de Dados na plataforma RioOn em parceria com o SENAC 
- </b></p>
 
  
 ## 📄 Requisitos do Banco de Dados
