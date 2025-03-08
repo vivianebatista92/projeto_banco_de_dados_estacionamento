@@ -1,6 +1,6 @@
 # Projeto de Banco de Dados - Estacionamento
 
-> ℹ️ **NOTE:** Projeto final do curso curso de Desenvolvimento de Banco de Dados para plataforma [RioOn](https://rioon.rio.br/) em parceria com o [SENACRJ](https://www.rj.senac.br/).
+> ℹ️ **NOTE:** Projeto final do curso curso de Desenvolvimento de Banco de Dados para plataforma [RioOn](https://rioon.rio.br/) em parceria com o [SenacRJ](https://www.rj.senac.br/).
 
 
 <p align="center">
