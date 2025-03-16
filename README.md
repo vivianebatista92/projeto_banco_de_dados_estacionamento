@@ -59,5 +59,4 @@
 <p align="center">
 <img 
     src="src/projetos_banner.gif"
-    
-/>
+    >
