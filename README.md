@@ -54,3 +54,9 @@
 - Linguagem utilizada: **SQL**
 - Todas as consultas estão comentadas dentro do arquivo
 
+#
+
+<p align="center">
+<img 
+    src="src/projetos_banner.gif"
+    >
